@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string name="prev_tab">Previous Tab</string>
+    <string name="add_tab">New Tab</string>
+    <string name="next_tab">Next Tab</string>
+    <string name="go_button">Go</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="prev_page">Prev Page</string>
+    <string name="next_page">Next Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
